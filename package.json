@@ -1,0 +1,26 @@
+{
+  "name": "curso-asincronismo-js-1",
+  "version": "1.0.0",
+  "description": "curso actualizado 2022 de asincronismo con js en platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcasadiego/curso-asincronismo-2022.git"
+  },
+  "keywords": [
+    "javascript",
+    "async",
+    "asincronismo",
+    "js",
+    "platzi"
+  ],
+  "author": "Jose Casadiego <jcasadiego.a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcasadiego/curso-asincronismo-2022/issues"
+  },
+  "homepage": "https://github.com/jcasadiego/curso-asincronismo-2022#readme"
+}
