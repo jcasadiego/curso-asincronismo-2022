@@ -4,7 +4,7 @@
   "description": "curso actualizado 2022 de asincronismo con js en platzi.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jcasadiego/curso-asincronismo-2022/issues"
   },
-  "homepage": "https://github.com/jcasadiego/curso-asincronismo-2022#readme"
+  "homepage": "https://github.com/jcasadiego/curso-asincronismo-2022#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
